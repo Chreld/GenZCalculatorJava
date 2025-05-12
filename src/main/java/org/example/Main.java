@@ -52,8 +52,6 @@ public class Main {
             case "420+69" -> "42069";
             case "7+(-1/2+5)*20" -> "Seven-and-a-half-fives. Or 97 if you don't have a potato in your mouth";
             case "77+33" -> "100";
-            case "gay" -> "Giiiiirl, shut uppppp";
-            case "fuckyou" -> "Look at the maidenless, who got beef with a calculator. Touch grass";
             case "nice" -> "69";
             case "shrek" -> "Shrek is love, Shrek is life";
             case "whyis6afraidof7" -> "Because 7 8 9";
